@@ -1,6 +1,6 @@
 {
-    "pack": {
-       "pack_format": 4,
-       "description": "The Official Vision IV Texture Pack"
-    }
- }
+  "pack": {
+    "pack_format": 6,
+    "description": "The Official Vision IV Texture Pack"
+  }
+}
